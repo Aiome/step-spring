@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/step-spring-smart-framework-example" />
+    <file type="web" url="file://$PROJECT_DIR$/step-spring-web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/GatlingDev" value="PREVIEW" />
+        <entry key="D:/GatlingDev/gatling-dubbo" value="PREVIEW" />
+        <entry key="D:/PersonalDEV/DemoScala" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherEnabled" value="true" />
+    <option name="customLauncherPath" value="E:\AssistantTool\sbt\bin\sbt-launch.jar" />
+    <option name="customVMPath" />
+    <option name="vmParameters" value="-Dsbt.log.format=true -Dsbt.override.build.repos=true -Dsbt.boot.directory=E:/AssistantTool/sbt/.sbt/boot/ -Dsbt.ivy.home=E:/AssistantTool/sbt/.ivy2 -Dsbt.global.base=E:/AssistantTool/sbt/.sbt -Dsbt.repository.config=E:/AssistantTool/sbt/conf/repo.properties" />
+  </component>
+</project>
